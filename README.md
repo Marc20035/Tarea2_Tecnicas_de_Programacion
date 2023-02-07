@@ -2,7 +2,7 @@
 # Notas:
 Mi repositorio es: https://github.com/Marc20035/Tarea2_Tecnicas_de_Programacion.git
 # Ejercicios
-# * 1. Valores de las variables
+ * 1. Valores de las variables
 ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
 
 Algo ValoresDeLasVariables  
